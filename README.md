@@ -4,7 +4,7 @@ Segmentez des clients d'un site e-commerce
 ## Objectifs :
 - Évaluer les performances des modèles d’apprentissage non supervisé
 - Sélectionner et entraîner des modèles d’apprentissage non-supervisé
-- 
+  
 ## Contexte : 
 Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 Votre rôle est d’accompagner Olist dans leur projet de monter une équipe Data et leur premier cas d’usage Data Science autour de la segmentation client.
