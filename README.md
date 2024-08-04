@@ -3,7 +3,7 @@ Segmentez des clients d'un site e-commerce
 
 ## Objectifs :
 - Évaluer les performances des modèles d’apprentissage non supervisé
-- Sélectionner et entraîner des modèles d’apprentissage non-supervisé
+- Sélectionner et entraîner des modèles d’apprentissage non supervisé
   
 ## Contexte : 
 Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
